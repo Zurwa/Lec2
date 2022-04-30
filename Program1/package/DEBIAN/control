@@ -1,0 +1,10 @@
+Package: Program1
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essentional: no
+Installed-Size: 12
+Maintainer: Mikel <mikelp2013@hotmail.com>
+Description: Program1
